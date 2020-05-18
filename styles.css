@@ -139,7 +139,7 @@ h1.name {
 	vertical-align: top;
 	display: inline-block;
 	width: 49.7%;
-	height: 100px;
+	height: auto;
 }
 
 .section-title {
@@ -181,6 +181,7 @@ h1.name {
 	font-size: 16px;
 	color: rgb(21, 22, 22);
 	line-height: 22px;
+	height: auto;
 }
 
 /*skill and intrests ends*/
